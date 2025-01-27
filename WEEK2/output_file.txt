@@ -1,2 +1,0 @@
-Wonderful weatherl be appended to existing content in the output_file.txt
-This content will be appended to existing content in the output_file.txt
